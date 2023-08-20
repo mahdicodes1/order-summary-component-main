@@ -7,7 +7,7 @@
 
 # **Challenge Name**
 
-- ### [Order summary component main](https://www.frontendmentor.io/solutions/single-price-grid-component-master-Yn6QiquXZj)
+- ### [Order summary component main](https://www.frontendmentor.io/solutions/order-summary-component-main-emfn4S1wDJ)
 
 <br>
 
@@ -21,7 +21,7 @@ The designs were created to the following widths:
 
 ## **Links**
 
-- Live Site URL: [click here](https://mahdicodes1.github.io/Single-price-grid-component-master/)
+- Live Site URL: [click here](https://mahdicodes1.github.io/order-summary-component-main/)
 
 <br>
 
